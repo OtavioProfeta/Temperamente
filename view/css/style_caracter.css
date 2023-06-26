@@ -1,0 +1,46 @@
+/*div{
+    border-style: solid;
+    border-color: yellow;
+  }*/
+
+.border-caracter{
+    border-style: solid;
+    border-width: 4px;
+    border-color: #ffffff;
+}
+
+.img-colerico{
+    background-image: url("../../img/verao2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 80%;
+}
+
+.img-melancolico{
+  background-image: url("../../img/outono.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 80%;
+}
+
+.img-sanguineo{
+  background-image: url("../../img/primavera.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 80%;
+}
+
+.img-fleumatico{
+  background-image: url("../../img/inverno.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 80%;
+}
+
+.grad{
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.493) , rgba(255, 255, 255, 0));
+    border-radius: 20px;
+  }
+
+
+

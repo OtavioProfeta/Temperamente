@@ -1,0 +1,18 @@
+.sublin:hover{
+    color: #8600d0;
+    text-decoration: underline;
+    text-shadow: 0px 0px 24px #860090;
+}
+
+.rosa{
+    background-color: #8600d0;
+}
+.rosa:hover{
+    color: #ffffff;
+    text-decoration: underline;
+    text-shadow: 0px 0px 30px #ffffff;
+}
+
+.text-color{
+    color: white;
+}

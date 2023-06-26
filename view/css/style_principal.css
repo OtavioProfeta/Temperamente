@@ -1,0 +1,41 @@
+  .bk-colerico{
+    position: relative;
+    background-image: url("../../img/fogo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 80%;
+  }
+
+  .bk-melancolico{
+    position: relative;
+    background-image: url("../../img/terra.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 80%;
+  }
+
+  .bk-sanguineo{
+    position: relative;
+    background-image: url("../../img/ar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 40% 30%;
+  }
+
+  .bk-fleumatico{
+    position: relative;
+    background-image: url("../../img/agua.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 80%;
+  }
+  
+  .container {
+    position: relative;
+    z-index: 2;
+  }
+
+  .justify-text{
+    text-align: justify;
+  }
+  

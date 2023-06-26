@@ -1,0 +1,78 @@
+/*div{
+  border-style: solid;
+  border-color: yellow;
+}*/
+
+.border-box{
+    border-style: solid;
+    border-width: 4px;
+    border-color: #ffffff;
+}
+
+.border-estante{
+    border-style: solid;
+    border-width: 8px;
+    border-color: #362318;
+    box-shadow: inset 16px 12px 18px #2b1c14;
+}
+
+.border-estante-2{
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #362318;
+    box-shadow: 16px 4px 18px #2b1c14;
+}
+
+.img-estante{
+    background-image: url("../../img/fundo_madeira3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.img2-estante{
+    background-image: url("../../img/fundo_madeira2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img3-estante{
+    background-image: url("../../img/estante.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.font-estant{
+    color: white;
+    text-shadow: 0px 2px 10px black;
+}
+
+.bi-arrow-repeat{
+    color: #000000;
+}
+
+.bi-headphones{
+    float: left;
+}
+
+.custom-icon {
+    color: rgb(197, 128, 0); 
+  }
+
+.btn-success-estante{
+    cursor: pointer;
+    padding: 10px 50px;
+    background: #ca7910;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0px 0px 12px #2b1c14;
+  }
+.btn-success-estante:hover {
+    background: #faab43;
+    box-shadow: 0px 0px 8px #faab43;
+}
+
+.justify-text{
+    text-align: justify;
+  }
