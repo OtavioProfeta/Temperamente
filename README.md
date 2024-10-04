@@ -43,10 +43,6 @@ Acredita-se que este website pode proporcionar:
 
 Licenciado sob a [Licença MIT](LICENSE).
 
-## Contato
-
-Para dúvidas ou mais informações, entre em contato através do [e-mail](otavioprofeta48@gmail.com).
-
 ---
 
 Agradeço por visitar o meu projeto e espero que ele possa ser útil para você em sua jornada de autoconhecimento!
