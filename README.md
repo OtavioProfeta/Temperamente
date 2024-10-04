@@ -36,8 +36,8 @@ Acredita-se que este website pode proporcionar:
 ## Tecnologias Utilizadas
 
 - HTML, CSS e Bootstrap para a interface do usuário.
-- Backend em [linguagem escolhida, ex: Python, Node.js].
-- Banco de dados [especificar, ex: MongoDB, PostgreSQL] para armazenamento de dados.
+- Backend em PHP e pequenas funcinalidades em JavaScript.
+- Banco de dados MySQL para armazenamento de dados.
 
 ## Licença
 
@@ -45,7 +45,7 @@ Licenciado sob a [Licença MIT](LICENSE).
 
 ## Contato
 
-Para dúvidas ou mais informações, entre em contato através do e-mail [otavioprofeta48@gmail.com].
+Para dúvidas ou mais informações, entre em contato através do [e-mail](otavioprofeta48@gmail.com).
 
 ---
 
