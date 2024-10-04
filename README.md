@@ -1,6 +1,7 @@
-<p align="Center"
-  <img src="img\icon_mente.png"/>
-/p>
+<p align="center">
+<img src="/img/icon_mente.png">
+</p>
+  
 # Web site desenvolvido para o autoconhecimento temperamental com o uso de Interação, Humano - Computador (IHC)
 
 ## Descrição
